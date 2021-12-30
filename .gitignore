@@ -1,0 +1,13 @@
+11 lines (9 sloc)  129 Bytes
+   
+.idea
+.vscode
+node_modules
+*/node_modules
+*/.env.local
+
+# Serverless directories
+*/.serverless
+
+# Webpack directories
+*/.webpack
